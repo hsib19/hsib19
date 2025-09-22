@@ -1,3 +1,4 @@
-# GitHub Stats
+# Full-Stack Engineer @Holdex
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=namauser&show_icons=true&theme=radical)
+At Holdex, we transform ideas into impactful Web3 applications.  
+Check what we've done: [https://holdex.io/portfolio](https://holdex.io/portfolio)
